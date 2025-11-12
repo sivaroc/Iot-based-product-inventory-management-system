@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "597109012761",
+    "firebase_url": "https://arduino-148de-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "arduino-148de",
+    "storage_bucket": "arduino-148de.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597109012761:android:fe1636e1a9e00431536d88",
+        "android_client_info": {
+          "package_name": "com.example.flutterapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeWJ_dtMyUHkUgwDIdQ44VW0bnQHC2mro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
